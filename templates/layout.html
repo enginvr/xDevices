@@ -1,0 +1,12 @@
+<!doctype html>
+
+<title>xDevices Example</title>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js">
+</script>
+
+<script>
+  var $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+</script>
+
+{% block body %}{% endblock %}

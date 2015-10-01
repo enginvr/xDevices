@@ -1,0 +1,66 @@
+{% extends "layout.html" %}
+{% block body %}
+
+  <script>
+  	/* 
+  	Обновление данных с устройств.
+	Заполнение таблицы данными.
+	*/
+    function getData(){                         
+      $.getJSON('/refresh_data', {}, 
+        function(json) { 
+
+          table.empty();
+          var trHTML = '';
+
+          $.each(json, function(name, values) {
+            trHTML += '<tr><th>' + name + '</th></tr>';
+            $.each(values, function(port, status) {
+            trHTML += '<tr><td>' + port + '</td><td>' + status + '</td></tr>';
+            });
+          });    
+          
+          table.append(trHTML);
+
+        });
+    };
+  </script>
+
+
+  <script>
+  	/* 
+  	Вызов обновления данных после загрузки страницы.
+	*/
+    $(document).ready(function() {
+      getData()
+    });
+  </script>
+
+
+  <script>
+  	/* 
+  	Вызов обновления данных через заданное время.
+	*/
+    setInterval(function() {
+      getData()
+    }, 3000);
+  </script>
+
+
+<h1>Устройства</h1>
+
+
+<table>
+<thead>
+    <th> Данные обновляются.  </th>
+</thead>
+<tbody id="table-body">
+</tbody>
+</table>
+
+
+<script>
+  var table = $('#table-body');
+</script>
+
+{% endblock %}
