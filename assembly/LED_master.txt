@@ -1,0 +1,15 @@
+
+Part Value Device     Package Description               
+IN1        LED3MM     LED3MM  LED                       
+IN2        LED3MM     LED3MM  LED                       
+IN3        LED3MM     LED3MM  LED                       
+JP1        PINHD-1X7  1X07    PIN HEADER                
+OUT1       LED3MM     LED3MM  LED                       
+OUT2       LED3MM     LED3MM  LED                       
+OUT3       LED3MM     LED3MM  LED                       
+R1   1k    R-EU_R0805 R0805   RESISTOR, European symbol 
+R2   1k    R-EU_R0805 R0805   RESISTOR, European symbol 
+R3   1k    R-EU_R0805 R0805   RESISTOR, European symbol 
+R4   1k    R-EU_R0805 R0805   RESISTOR, European symbol 
+R5   1k    R-EU_R0805 R0805   RESISTOR, European symbol 
+R6   1k    R-EU_R0805 R0805   RESISTOR, European symbol 
