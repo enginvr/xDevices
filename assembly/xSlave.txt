@@ -1,0 +1,56 @@
+
+Part Value         Device             Package     Description                                             MF                MPN       OC_FARNELL OC_NEWARK
+C1   100uF         CPOL-EU140CLH-0810 140CLH-0810 POLARIZED CAPACITOR, European symbol                                                                    
+C2   270pF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C3   470uF         CPOL-EU140CLH-0810 140CLH-0810 POLARIZED CAPACITOR, European symbol                                                                    
+C4   0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C5   0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C6   0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C7   0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C8   0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C9   0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C10  0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C11  0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C12  0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C13  0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C14  0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+C15  0.1uF         C-EUC0805          C0805       CAPACITOR, European symbol                                                                              
+D1   SS14          S1M                SMA                                                                                                                 
+IC1  MC34063AD     MC34063AD          SOIC8                                                                                                               
+IC2  ULN2003AD     ULN2003AD          SO16        DRIVER ARRAY                                                                                            
+JP1                JP2E               JP2         JUMPER                                                                                                  
+JP2                JP2E               JP2         JUMPER                                                                                                  
+JP3                JP2E               JP2         JUMPER                                                                                                  
+JP4                JP2E               JP2         JUMPER                                                                                                  
+JP5                JP2E               JP2         JUMPER                                                                                                  
+JP6                JP2E               JP2         JUMPER                                                                                                  
+JP7                PINHD-1X9          1X09        PIN HEADER                                                                                              
+JP8                PINHD-1X3          1X03        PIN HEADER                                                                                              
+JP9                PINHD-1X10M        1X10M       PIN HEADER                                                                                              
+JP10               PINHD-1X10M        1X10M       PIN HEADER                                                                                              
+K1   801H-1C-C     G5L                G5LE        RELAY                                                                               unknown    unknown  
+K2   801H-1C-C     G5L                G5LE        RELAY                                                                               unknown    unknown  
+L1   SDR0805-221KL DR73               DR73        High Power Density, High Efficiency, Shielded Inductors                                                 
+OK1  LTV817        SFH6206            DIL4-SMD    Optocoupler, Phototransistor Output, AC Input           VISHAY/TELEFUNKEN SFH6206-3 1469585    58K2214  
+OK2  LTV817        SFH6206            DIL4-SMD    Optocoupler, Phototransistor Output, AC Input           VISHAY/TELEFUNKEN SFH6206-3 1469585    58K2214  
+OK3  LTV817        SFH6206            DIL4-SMD    Optocoupler, Phototransistor Output, AC Input           VISHAY/TELEFUNKEN SFH6206-3 1469585    58K2214  
+OK4  LTV817        SFH6206            DIL4-SMD    Optocoupler, Phototransistor Output, AC Input           VISHAY/TELEFUNKEN SFH6206-3 1469585    58K2214  
+OK5  LTV817        SFH6206            DIL4-SMD    Optocoupler, Phototransistor Output, AC Input           VISHAY/TELEFUNKEN SFH6206-3 1469585    58K2214  
+OK6  LTV817        SFH6206            DIL4-SMD    Optocoupler, Phototransistor Output, AC Input           VISHAY/TELEFUNKEN SFH6206-3 1469585    58K2214  
+R1   1             R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R2   1             R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R3   1             R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R4   18k           R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R5   11k           R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R6                 R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R7                 R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R8                 R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R9                 R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R10                R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+R11  10k           R-EU_R0805         R0805       RESISTOR, European symbol                                                                               
+X1                 W237-102           W237-102    WAGO SCREW CLAMP                                                          237-102   unknown    70K9898  
+X2                 W237-3E            W237-3E     WAGO SREW CLAMP                                                                     unknown    unknown  
+X3                 W237-3E            W237-3E     WAGO SREW CLAMP                                                                     unknown    unknown  
+X4                 W237-3E            W237-3E     WAGO SREW CLAMP                                                                     unknown    unknown  
+X10                W237-10P           W237-10P    WAGO SREW CLAMP                                                                     unknown    unknown  
+X11                W237-02P           W237-132    WAGO SREW CLAMP                                                                     unknown    unknown  

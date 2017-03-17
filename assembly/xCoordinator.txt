@@ -1,0 +1,31 @@
+
+Part    Value              Device             Package   Description                                                             
+C1      0.1uF              C-EUC0805          C0805     CAPACITOR                                                                                              
+C2      0.1uF              C-EUC0805          C0805     CAPACITOR                                                                                              
+C3      0.1uF              C-EUC0805          C0805     CAPACITOR                                                                                              
+C4      10uF               C-EUC0805          C0805     CAPACITOR                                                                                              
+C5      0.1uF              C-EUC0805          C0805     CAPACITOR                                                                                              
+C6      0.1uF              C-EUC0805          C0805     CAPACITOR                                                                                              
+C7      0.1uF              C-EUC0805          C0805     CAPACITOR                                                                                              
+C8      0.1uF              C-EUC0805          C0805     CAPACITOR                                                                                              
+C9      0.1uF              C-EUC0805          C0805     CAPACITOR                                                                                              
+C10     0.1uF              C-EUC0805          C0805     CAPACITOR                                                                                              
+IC1     FT232RL            FT232RL            SSOP28                       
+IC2     ULN2003AD          ULN2003AD          SO16      DRIVER ARRAY                                                                                                            
+IC3     LD117AS33TR        LD117AS33TR        SOT223                                                              
+JP1     1-10               PINHD-1X10M        1X10M     PIN HEADER                                                                                                              
+JP2     11-20              PINHD-1X10M        1X10M     PIN HEADER                                                                                                              
+K1      801H-1C-C          G5LE               G5LE      RELAY                                                                                                
+K2      801H-1C-C          G5LE               G5LE      RELAY                                                                                                
+K3      801H-1C-C          G5LE               G5LE      RELAY                                                                                               
+LED_CON                    PINHD-1X7          1X07      PIN HEADER                                                                                                              
+OK1     LTV817             SFH6206            DIL4-SMD  Optocoupler                            
+OK2     LTV817             SFH6206            DIL4-SMD  Optocoupler                            
+OK3     LTV817             SFH6206            DIL4-SMD  Optocoupler                            
+R1      10k                R-EU_R0805         R0805     RESISTOR                                                                                              
+R2      10k                R-EU_R0805         R0805     RESISTOR                                                                                               
+R3      10k                R-EU_R0805         R0805     RESISTOR                                                                                               
+X1      MINI-USB-32005-301 MINI-USB-32005-301 32005-301 MINI USB-B Conector                                                                                  
+X4                         W237-06P           W237-6P   WAGO SREW CLAMP                                                                                       
+X5                         W237-09P           W237-9P   WAGO SREW CLAMP                                                                                     
+X8                         W237-102           W237-102  WAGO SCREW CLAMP                                                                           
